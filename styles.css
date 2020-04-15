@@ -8,6 +8,10 @@ html {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 header,
 footer,
 main,
