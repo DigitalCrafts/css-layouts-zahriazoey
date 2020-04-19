@@ -1,0 +1,13 @@
+aside {
+    float: right;
+    width: 20%
+}
+
+main {
+    float: left;
+    width: 80%
+}
+
+.clearfix {
+    clear: both;
+}

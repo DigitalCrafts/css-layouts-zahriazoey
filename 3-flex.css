@@ -1,0 +1,23 @@
+aside {
+    width: 20%;
+}
+
+main {
+    width: 80%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+
+}
+
+.inside {
+    display: flex;
+    width: 100%;
+    flex-grow: 1;
+    
+
+}
