@@ -1,0 +1,29 @@
+header {
+    position: absolute;
+    width: 100%;
+    top: 0;
+}
+
+main {
+    position: absolute;
+    width: 80%;
+    top: 88px;
+
+
+}
+
+aside {
+    position: absolute;
+    right: 0;
+    width: 20%;
+    height: calc(100% - 88px);
+    top: 88px;
+    overflow: scroll;
+}
+
+footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+
+}
